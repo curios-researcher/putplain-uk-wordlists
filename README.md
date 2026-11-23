@@ -1,6 +1,6 @@
-# eloqa-uk-wordlists
+# putplain-uk-wordlists
 
-Ukrainian word lists used by the eloqa app.
+Ukrainian word lists used by the Putplain app.
 
 ## Files
 
